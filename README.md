@@ -1,0 +1,4 @@
+LAB 1
+The objective of this lab is to handle the csv file.With the aid of some user-defined functions, the programme allowed us to create menu-driven programmes.
+
+The programme primarily uses some crucial Python programming features like open, user-defined functions, conditional statements, etc. The programme had four questions that required the user to read the file, identify the headers, count the number of customers in the category "marital," and create an age-based histogram. The program's catch was that the code had to be executed without using any of the libraries used in Python programming.
